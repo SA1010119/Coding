@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Voting Eligibility Checker
+# Purpose:     To know if you can vote or not
+#
+# Author:      Soltan Arbab
+# Created:     25-Feb-2025
+# Updated:     26-Feb-2025
+#----------------------------------------------------------------------------
+
 # Voting Eligibility Checker
 # This program checks if a person is eligible to vote based on their age.
 
