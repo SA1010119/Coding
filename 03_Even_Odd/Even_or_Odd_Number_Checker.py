@@ -8,8 +8,10 @@
 # Updated:     26-Feb-2025
 #-----------------------------------------------------------------------------
 
+# Ask the user for a number and convert it to an integer
 myNumber = int(input("Enter a number: "))
-if myNumber % 2 == 0 :
-    print("Even")
-else:
-    print("Odd")
+# Check if the number is even or odd
+if myNumber % 2 == 0:  # If the number is divisible by 2, it's even
+   print("Even")
+else:  # If the number is not divisible by 2, it's odd
+   print("Odd")
