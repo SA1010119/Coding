@@ -1,3 +1,5 @@
+Voting Eligibility Checker Code
+
 1. Ask the user to enter their age.
 2. Store the age in a variable.
 3. Use conditional statements to check if the person is eligible to vote.

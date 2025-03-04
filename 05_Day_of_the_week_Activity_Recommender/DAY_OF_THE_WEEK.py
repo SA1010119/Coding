@@ -2,7 +2,7 @@
 # Name:        Day of the Week Activity Recommender
 # Purpose:     To know the activity based on the day of the week.
 #
-# Author:      Soltan Arbab
+# Author:      Soltan
 # Created:     25-Feb-2025
 # Updated:     3-Mar-2025
 #----------------------------------------------------------------------------

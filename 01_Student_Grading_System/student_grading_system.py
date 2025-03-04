@@ -3,7 +3,7 @@
 # Purpose:     To make the student know their grade, so they know if it's good or not.
 #			   Work on Python
 #
-# Author:      Soltan Arbab
+# Author:      Soltan
 # Created:     25-Feb-2025
 # Updated:     25-Feb-2025
 #-----------------------------------------------------------------------------

@@ -1,3 +1,5 @@
+* Student Grading System Code
+
 * Start
 * Prompt the user to enter their score (out of 100).
 * Store the score in a variable called score.

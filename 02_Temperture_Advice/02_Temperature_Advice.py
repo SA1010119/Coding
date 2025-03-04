@@ -2,7 +2,7 @@
 # Name:        Temperature Advice
 # Purpose:      for the current temperature and suggests whether they should wear a jacket, short-sleeves, or stay indoors.
 #
-# Author:      Soltan Arbab
+# Author:      Soltan
 # Created:     25-Feb-2025
 # Updated:     27-Feb-2025
 #-----------------------------------------------------------------------------

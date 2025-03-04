@@ -1,3 +1,5 @@
+* Temperature Advice Code
+
 1. Ask the user to enter the current temperature (in Celsius).
 2. Store the temperature in a variable.
 3. Use conditional statements to give advice based on the temperature.

@@ -2,7 +2,7 @@
 # Name:        Voting Eligibility Checker
 # Purpose:     To know if you can vote or not
 #
-# Author:      Soltan Arbab
+# Author:      Soltan
 # Created:     25-Feb-2025
 # Updated:     26-Feb-2025
 #----------------------------------------------------------------------------

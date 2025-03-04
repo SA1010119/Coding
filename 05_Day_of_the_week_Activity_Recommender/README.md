@@ -1,3 +1,5 @@
+Day of the Week Activity Recommender Code
+
 1. Ask the user to enter the current day of the week (e.g., "Monday", "Tuesday").
 2. Store the day in a variable.
 3. Use conditional statements to recommend an activity based on the day.
