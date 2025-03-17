@@ -1,3 +1,15 @@
+#-----------------------------------------------------------------------------
+# Name: Soltan
+# Purpose: program that starts at `10` and counts down to `1`, but if the user enters `"stop"`, the countdown should break.
+
+
+#            Work on Python
+#
+# Author:      Soltan
+# Created:     17-March-2025
+# Updated:     17-March-2025
+#-----------------------------------------------------------------------------
+
 # Start countdown from 10
 num = 10
 

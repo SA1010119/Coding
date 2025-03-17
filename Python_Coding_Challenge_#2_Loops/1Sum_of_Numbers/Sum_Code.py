@@ -1,13 +1,13 @@
 #-----------------------------------------------------------------------------
-# Name:  Sum of N
-# Purpose:
+# Name:  Sum of Number
+# Purpose:calculates the sum of all numbers from `1` to `n` using a `for` loop.
 
 
 #            Work on Python
 #
 # Author:      Soltan
-# Created:     -March-2025
-# Updated:     -March-2025
+# Created:     9-March-2025
+# Updated:     9-March-2025
 #-----------------------------------------------------------------------------
 
 # Ask the user to enter a number
