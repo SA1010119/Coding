@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name: Soltan
+# Name: CountDown Timer
 # Purpose: program that starts at `10` and counts down to `1`, but if the user enters `"stop"`, the countdown should break.
 
 
