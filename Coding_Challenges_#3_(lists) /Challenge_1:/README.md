@@ -1,5 +1,6 @@
-# Creat a Grocery List and Add Items 
+# Grocery List
 
-1. Create a list called grocery_list with the following items: 'apples', 'bread', 'milk', and 'eggs'.
-2. Add two more items to the list: 'cheese' and 'tomatoes'.
+# This program creates a grocery list, adds new items to it, and prints the updated list.
+1. Create a list called `grocery_list` with initial items.
+2. Add two more items using the `.append()` method.
 3. Print the updated list.
